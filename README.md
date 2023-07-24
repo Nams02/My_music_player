@@ -15,7 +15,7 @@
 
 ## Description
 
-The Music Player Application is a Python-based desktop application that allows users to play, pause, skip tracks, and adjust volume while listening to their favorite music. The application provides an intuitive user interface, easy navigation, and visually appealing animations, making it an enjoyable and functional music player.
+The Music Player Application is a Python-based desktop application that allows users to play, pause, skip tracks, and adjust the volume while listening to their favourite music. The application provides an intuitive user interface, easy navigation, and visually appealing animations, making it an enjoyable and functional music player.
 
 ## Features
 
@@ -34,7 +34,7 @@ The Music Player Application is a Python-based desktop application that allows u
 2. Click on "Browse Music" to add songs to the playlist.
 3. Use the play, pause, stop, and resume buttons to control the music playback.
 4. Adjust the volume using the volume slider.
-5. Enjoy listening to your favorite music with the visually appealing animations!
+5. Enjoy listening to your favourite music with visually appealing animations!
 
 ## Technologies Used
 
