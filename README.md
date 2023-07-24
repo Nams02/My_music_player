@@ -25,6 +25,21 @@ The Music Player Application is a Python-based desktop application that allows u
 - Display the current playing song in the status bar.
 - Visualize music playback with an animated GIF.
 
+## Installation
+
+1. Clone this repository to your local machine.
+   ```
+   git clone https://github.com/your-username/music-player-app.git
+   ```
+2. Change to the project directory.
+   ```
+   cd music-player-app
+   ```
+3. Install the required dependencies.
+   ```
+   pip install -r requirements.txt
+   ```
+
 ## Usage
 
 1. Run the application using Python.
