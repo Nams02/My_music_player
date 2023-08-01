@@ -25,26 +25,11 @@ The Music Player Application is a Python-based desktop application that allows u
 - Display the current playing song in the status bar.
 - Visualize music playback with an animated GIF.
 
-## Installation
-
-1. Clone this repository to your local machine.
-   ```
-   git clone https://github.com/Nams02/UNIcompiler.git
-   ```
-2. Change to the project directory.
-   ```
-   cd music-player-app
-   ```
-3. Install the required dependencies.
-   ```
-   pip install -r requirements.txt
-   ```
-
 ## Usage
 
 1. Run the application using Python.
    ```
-   python music_player.py
+   python main.py
    ```
 2. Click on "Browse Music" to add songs to the playlist.
 3. Use the play, pause, stop, and resume buttons to control the music playback.
@@ -60,10 +45,6 @@ The Music Player Application is a Python-based desktop application that allows u
 ## Contributing
 
 Contributions are welcome! If you find any issues or want to enhance the application, feel free to create a pull request.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 
