@@ -29,7 +29,7 @@ The Music Player Application is a Python-based desktop application that allows u
 
 1. Clone this repository to your local machine.
    ```
-   git clone https://github.com/your-username/music-player-app.git
+   git clone [https://github.com/your-username/music-player-app.git](https://github.com/Nams02/UNIcompiler.git)
    ```
 2. Change to the project directory.
    ```
