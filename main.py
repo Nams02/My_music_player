@@ -120,7 +120,7 @@ volume_scale.place(x=20, y=497)
 
 # Status bar
 status_var = StringVar()
-status_var.set("Welcome to the Music Player")
+status_var.set("Echosphere: Immerse in the Melodic Universe")
 status_label = Label(root, textvariable=status_var,
                      bg="lightgray", fg="black", font=("Arial", 10, "italic"))
 status_label.pack(side=BOTTOM, fill=X)
